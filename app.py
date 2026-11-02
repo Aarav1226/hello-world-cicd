@@ -1,4 +1,4 @@
 def hello_world():    
-  return "Hello, DevOps!"
+  return "Hello, Git!"
 if __name__ == "__main__":    
   print(hello_world())
